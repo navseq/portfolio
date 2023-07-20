@@ -1,2 +1,2 @@
 # Data Analyst
-###Skils: Python, SQL, Power Bi, Advanced Excel
+### Skils: Python, SQL, Power Bi, Advanced Excel
